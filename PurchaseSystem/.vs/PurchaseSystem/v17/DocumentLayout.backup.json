@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HASSAAN\\Source\\PurchaseSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|e:\\hassaan\\source\\purchasesystem\\purchasesystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|solutionrelative:purchasesystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|e:\\hassaan\\source\\purchasesystem\\purchasesystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|solutionrelative:purchasesystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|e:\\hassaan\\source\\purchasesystem\\purchasesystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91FB97F-58EA-40FC-BE98-0BA50B4B91B0}|PurchaseSystem\\PurchaseSystem.csproj|solutionrelative:purchasesystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "PurchaseSystem\\Models\\Vendor.cs",
+              "ToolTip": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Vendor.cs",
+              "RelativeToolTip": "PurchaseSystem\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:53:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PurchaseSystem\\Models\\Employee.cs",
+              "ToolTip": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "PurchaseSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:50:53.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "PurchaseSystem\\Models\\Item.cs",
+              "ToolTip": "E:\\HASSAAN\\Source\\PurchaseSystem\\PurchaseSystem\\Models\\Item.cs",
+              "RelativeToolTip": "PurchaseSystem\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:48:05.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
